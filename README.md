@@ -1,4 +1,5 @@
-======FIND YOUR HAT 
+FIND YOUR HAT 
+======
 
 This is a small game from Codecademy where you need to find your hat in a field.
 
